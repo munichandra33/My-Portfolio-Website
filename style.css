@@ -219,6 +219,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  
 }
 
 .btn {
@@ -372,12 +373,17 @@ article .icon {
 
 .project-title {
   margin: 1rem;
+  margin-bottom: 0.25rem;
   color: black;
 }
 
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
+}
+
+.project-description {
+  margin-bottom: 1rem;
 }
 
 /* CONTACT */
